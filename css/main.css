@@ -1,0 +1,23 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html {
+    color: #000;
+    font-size: 1em;
+    line-height: 1.4;
+    background:#000;
+}
+
+::-moz-selection {
+    background: #000;
+    text-shadow: none;
+}
+
+::selection {
+    background: #000;
+    text-shadow: none;
+}
+
+#Funoon_District_Text
+{
+    margin-top:130px !important;
+}
